@@ -79,7 +79,8 @@ int yywrap() {
 
 ```
 # OUTPUT:
-![Uploading Screenshot 2025-04-29 135605.png…]()
+![Screenshot 2025-04-29 135605](https://github.com/user-attachments/assets/f1b74def-e8e1-41a1-9621-bf9a276813ed)
+
 
 
 # RESULT
